@@ -1,1 +1,1 @@
-# Bank-Customer-Churn-Exploratory-Data-Analysis-and-Churn-Prediction
+# Bank-Customer-Churn-Prediction
